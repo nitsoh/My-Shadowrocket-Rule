@@ -1,0 +1,3 @@
+{{gfwlist}}
+
+FINAL,direct
