@@ -9,7 +9,8 @@ git reset --hard origin/master
 cd factory
 # python3 ad.py
 python3 gfwlist.py
-python3 build_confs.py
+python3 build_confs_sr.py
+python3 build_confs_qx.py
 cd ..
 
 git add .
