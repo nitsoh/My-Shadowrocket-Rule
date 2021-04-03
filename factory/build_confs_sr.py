@@ -46,8 +46,8 @@ def getRulesStringFromFile(path, kind):
 
 
 # get head and foot
-str_head = open('template/sr_head.txt', 'r', encoding='utf-8').read()
-str_foot = open('template/sr_foot.txt', 'r', encoding='utf-8').read()
+# str_head = open('template/sr_head.txt', 'r', encoding='utf-8').read()
+# str_foot = open('template/sr_foot.txt', 'r', encoding='utf-8').read()
 
 
 # make values
@@ -74,7 +74,7 @@ for conf_name in confs_names:
     file_template = open('template/'+conf_name+'.txt', 'r', encoding='utf-8')
     template = file_template.read()
 
-    template = str_head + template + str_foot
+    # template = str_head + template + str_foot
 
     file_output = open('../'+conf_name+'.conf', 'w', encoding='utf-8')
 
