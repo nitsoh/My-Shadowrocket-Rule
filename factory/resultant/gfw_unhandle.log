@@ -15,8 +15,8 @@ amazon.com/Prisoner-State-Secret-Journal-Premier
 video.aol.ca/video-detail
 video.aol.co.uk/video-detail
 /^https?:\/\/[^\/]+blogspot\.(.*)
-/^https?:\/\/([^\/]+\.)*google\.(ac|ad|ae|af|al|am|as|at|az|ba|be|bf|bg|bi|bj|bs|bt|by|ca|cat|cd|cf|cg|ch|ci|cl|cm|co.ao|co.bw|co.ck|co.cr|co.id|co.il|co.in|co.jp|co.ke|co.kr|co.ls|co.ma|com|com.af|com.ag|com.ai|com.ar|com.au|com.bd|com.bh|com.bn|com.bo|com.br|com.bz|com.co|com.cu|com.cy|com.do|com.ec|com.eg|com.et|com.fj|com.gh|com.gi|com.gt|com.hk|com.jm|com.kh|com.kw|com.lb|com.ly|com.mm|com.mt|com.mx|com.my|com.na|com.nf|com.ng|com.ni|com.np|com.om|com.pa|com.pe|com.pg|com.ph|com.pk|com.pr|com.py|com.qa|com.sa|com.sb|com.sg|com.sl|com.sv|com.tj|com.tr|com.tw|com.ua|com.uy|com.vc|com.vn|co.mz|co.nz|co.th|co.tz|co.ug|co.uk|co.uz|co.ve|co.vi|co.za|co.zm|co.zw|cv|cz|de|dj|dk|dm|dz|ee|es|eu|fi|fm|fr|ga|ge|gg|gl|gm|gp|gr|gy|hk|hn|hr|ht|hu|ie|im|iq|is|it|it.ao|je|jo|kg|ki|kz|la|li|lk|lt|lu|lv|md|me|mg|mk|ml|mn|ms|mu|mv|mw|mx|ne|nl|no|nr|nu|org|pl|pn|ps|pt|ro|rs|ru|rw|sc|se|sh|si|sk|sm|sn|so|sr|st|td|tg|tk|tl|tm|tn|to|tt|us|vg|vn|vu|ws)\/.
-store.steampowered.com/app/333600
+/^https?:\/\/([^\/]+\.)*google\.(ac|ad|ae|af|ai|al|am|as|at|az|ba|be|bf|bg|bi|bj|bs|bt|by|ca|cat|cd|cf|cg|ch|ci|cl|cm|co.ao|co.bw|co.ck|co.cr|co.id|co.il|co.in|co.jp|co.ke|co.kr|co.ls|co.ma|com|com.af|com.ag|com.ai|com.ar|com.au|com.bd|com.bh|com.bn|com.bo|com.br|com.bz|com.co|com.cu|com.cy|com.do|com.ec|com.eg|com.et|com.fj|com.gh|com.gi|com.gt|com.hk|com.jm|com.kh|com.kw|com.lb|com.ly|com.mm|com.mt|com.mx|com.my|com.na|com.nf|com.ng|com.ni|com.np|com.om|com.pa|com.pe|com.pg|com.ph|com.pk|com.pr|com.py|com.qa|com.sa|com.sb|com.sg|com.sl|com.sv|com.tj|com.tr|com.tw|com.ua|com.uy|com.vc|com.vn|co.mz|co.nz|co.th|co.tz|co.ug|co.uk|co.uz|co.ve|co.vi|co.za|co.zm|co.zw|cv|cz|de|dj|dk|dm|dz|ee|es|eu|fi|fm|fr|ga|ge|gg|gl|gm|gp|gr|gy|hk|hn|hr|ht|hu|ie|im|iq|is|it|it.ao|je|jo|kg|ki|kz|la|li|lk|lt|lu|lv|md|me|mg|mk|ml|mn|ms|mu|mv|mw|mx|ne|nl|no|nr|nu|org|pl|pn|ps|pt|ro|rs|ru|rw|sc|se|sh|si|sk|sm|sn|so|sr|st|td|tg|tk|tl|tm|tn|to|tt|us|vg|vn|vu|ws)\/.
+zh.pttpedia.wikia.com/wiki/%E7%BF%92%E5%8C%85%E5%AD%90%E4%B9%8B%E4%BA%82
 buy.yahoo.com.tw/gdsale
 news.yahoo.com/china-blocks-bbc
 hk.search.yahoo.com/search
@@ -66,12 +66,10 @@ calameo.com/books
 its.caltech.edu/~falun
 cbsnews.com/video
 cctongbao.com/article/2078732
-channel8news.sg/news8
 chinapost.com.tw/taiwan/national/national-news
 chinaxchina.com/howto
 chinasmile.net/forums
 chinesetalks.net/ch
-cnnews.chosun.com/client/news/viw.asp?cate=C01&mcate
 christusrex.org/www1/sdc
 churchinhongkong.org/b5/index.php
 churchinhongkong.org/b5/index.php
@@ -81,10 +79,8 @@ cnn.com/video
 code1984.com/64
 www.cool18.com/bbs
 cuhkacs.org/~benng
-blog.daum.net/_blog
 daylife.com/topic/dalai_lama
 dbc.hk/main
-packages.debian.org/zh-cn/lenny/gpass
 delicious.com/GFWbookmark
 dogfartnetwork.com/tour
 duckload.com/download
@@ -185,7 +181,6 @@ my.opera.com/dahema
 share.ovi.com/media
 oyghan.com/wps
 ozchinese.com/bbs
-pbs.org/wgbh/pages/frontline/gate
 pbs.org/wgbh/pages/frontline/tankman
 pbs.org/wgbh/pages/frontline/tibet
 pentoy.hk/%E4%B8%AD%E5%9C%8B
@@ -250,7 +245,6 @@ waikeung.org/php_wind
 wapedia.mobi/zhsimp
 websitepulse.com/help/testtools.china-test
 trans.wenweipo.com/gb
-zh.pttpedia.wikia.com/wiki/%E7%BF%92%E5%8C%85%E5%AD%90%E4%B9%8B%E4%BA%82
 wikilivres.info/wiki/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0
 wzyboy.im/post/160
 cdn*.xda-developers.com
