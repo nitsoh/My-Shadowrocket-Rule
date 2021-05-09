@@ -11,6 +11,7 @@ cd factory
 python3 gfwlist.py
 python3 build_confs_sr.py
 python3 build_confs_qx.py
+python3 build_confs_cl.py
 cd ..
 
 git add .
