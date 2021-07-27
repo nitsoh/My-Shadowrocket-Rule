@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: hnz9JzdwrHTmX0RtYHcDyA
+! Checksum: DDK4yEMaDFlwQl5JAyrSPQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 02 May 2021 21:08:10 -0400
+! Last Modified: Thu, 22 Jul 2021 11:36:44 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1313,6 +1313,7 @@ blogspot.com
 ||certificate-transparency.org
 ||chrome.com
 ||chromecast.com
+||chromeenterprise.google
 ||chromeexperiments.com
 ||chromercise.com
 ||chromestatus.com
@@ -1472,6 +1473,7 @@ blogspot.com
 ||api-verify.recaptcha.net
 ||redhotlabs.com
 ||registry.google
+||research.google
 ||safety.google
 ||savethedate.foo
 ||schema.org
@@ -1485,6 +1487,8 @@ blogspot.com
 ||tfhub.dev
 ||thinkwithgoogle.com
 ||tiltbrush.com
+||translate.google
+||tv.google
 ||urchin.com
 !--||www.google
 ||waveprotocol.org
@@ -2240,7 +2244,7 @@ asg.to
 .asiaharvest.org
 ||asiaharvest.org
 ||asianage.com
-asianews.it
+||asianews.it
 |http://japanfirst.asianfreeforum.com/
 ||asiansexdiary.com
 ||asianwomensfilm.de
@@ -2260,7 +2264,8 @@ atgfw.org
 .atlaspost.com
 ||atlaspost.com
 ||atdmt.com
-.atlanta168.com/forum
+.atlanta168.com
+||atlanta168.com
 .atnext.com
 ||atnext.com
 ice.audionow.com
@@ -2295,6 +2300,7 @@ boxun*.azurewebsites.net
 !--------------------BB-------------------------
 ||b-ok.cc
 forum.baby-kingdom.com
+||babylonbee.com
 babynet.com.hk
 backchina.com
 ||backchina.com
@@ -2368,6 +2374,7 @@ beijingspring.com
 |http://bell.wiki
 bemywife.cc
 beric.me
+||berlinerbericht.de
 .berlintwitterwall.com
 ||berlintwitterwall.com
 .berm.co.nz
@@ -2418,6 +2425,7 @@ ai.binwang.me/couplet
 .bit.ly
 |http://bit.ly
 !--||bitbucket.org
+||bitchute.com
 ||bitcointalk.org
 .bitshare.com
 ||bitshare.com
@@ -3826,6 +3834,7 @@ gati.org.tw
 ||gazotube.com
 ||gcc.org.hk
 ||gclooney.com
+||gclubs.com
 ||gcmasia.com
 .gcpnews.com
 |http://gcpnews.com
@@ -3862,6 +3871,7 @@ getiton.com
 ||getmalus.com
 .getsocialscope.com
 ||getsync.com
+||gettr.com
 gfbv.de
 .gfgold.com.hk
 .gfsale.com
@@ -3889,8 +3899,9 @@ gigporno.ru
 
 !---GitHub---
 ||github.blog
-github.com/getlantern
-|https://gist.github.com
+||github.com
+!--github.com/getlantern
+!--|https://gist.github.com
 !--http://cthlo.github.io/hktv
 !--hahaxixi.github.io
 !--|https://hahaxixi.github.io
@@ -4691,14 +4702,15 @@ in-disguise.com
 ||incloak.com
 ||incredibox.fr
 ||independent.co.uk
+||indiablooms.com
 ||indiandefensenews.in
-timesofindia.indiatimes.com/dalai
-timesofindia.indiatimes.com/defaultinterstitial.cms
+||indianarrative.com
+||timesofindia.indiatimes.com
 .indiemerch.com
 ||indiemerch.com
 info-graf.fr
 website.informer.com
-.initiativesforchina.org
+||initiativesforchina.org
 .inkui.com
 .inmediahk.net
 ||inmediahk.net
@@ -5272,6 +5284,7 @@ mcreasite.com
 mefeedia.com
 jihadintel.meforum.org
 ||mega.co.nz
+||mega.io
 ||mega.nz
 ||megaproxy.com
 ||megarotic.com
@@ -5556,6 +5569,7 @@ nccwatch.org.tw
 ||neowin.net
 ||nepusoku.com
 ||net-fits.pro
+||netalert.me
 !--bbsnew.netbig.com
 bbs.netbig.com
 .netbirds.com
@@ -5601,6 +5615,7 @@ newtalk.tw
 newyorktimes.com
 ||nexon.com
 .next11.co.jp
+||nextdigital.com.hk
 .nextmag.com.tw
 
 !--hk*.nextmedia.com
@@ -6224,6 +6239,7 @@ rapidvpn.com
 |http://raremovie.cc
 .raremovie.net
 |http://raremovie.net
+||rationalwiki.org
 ||rawgit.com
 ||rawgithub.com
 !--.rayfme.com/bbs
@@ -7169,8 +7185,10 @@ top81.ws
 ||toptip.ca
 tora.to
 .torcn.com
+||torlock.com
 .torproject.org
 ||torproject.org
+||torrentkitty.tv
 torrentprivacy.com
 ||torrentprivacy.com
 |http://torrentproject.se
@@ -7497,6 +7515,7 @@ underwoodammo.com
 ||unknownspace.org
 .unodedos.com
 unpo.org
+||unstable.icu
 .untraceable.us
 |http://untraceable.us
 ||uocn.org
@@ -7563,6 +7582,7 @@ uygur.org
 ||v2ray.com
 ||v2raycn.com
 ||v2raytech.com
+||valeursactuelles.com
 .van001.com
 .van698.com
 .vanemu.cn
