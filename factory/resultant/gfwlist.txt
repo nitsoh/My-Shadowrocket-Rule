@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: DDK4yEMaDFlwQl5JAyrSPQ
+! Checksum: AIOwfHCXl/Qb/f5nuIFMRA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 22 Jul 2021 11:36:44 -0400
+! Last Modified: Mon, 27 Sep 2021 08:26:24 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -160,6 +160,7 @@ share.dmhy.org
 ||mvg.jp
 .mybet.com
 ||mybet.com
+||mypikpak.com
 ||nationwide.com
 |http://www.nbc.com/live
 ||neo-miracle.com
@@ -227,6 +228,7 @@ share.dmhy.org
 !--@@||intl.target.com
 ||rcam.target.com
 ||technews.tw
+||terabox.com
 ||thinkgeek.com
 ||thebodyshop-usa.com
 ||tma.co.jp
@@ -279,6 +281,7 @@ share.dmhy.org
 ||s3-ap-southeast-2.amazonaws.com
 
 ||43110.cf
+||9cache.com
 ||9gag.com
 ||agro.hk
 ||share.america.gov
@@ -1487,6 +1490,7 @@ blogspot.com
 ||tfhub.dev
 ||thinkwithgoogle.com
 ||tiltbrush.com
+||translate.goog
 ||translate.google
 ||tv.google
 ||urchin.com
@@ -1979,6 +1983,7 @@ taiwannation.50webs.com
 89.64.charter.constitutionalism.solutions
 89-64.org
 ||89-64.org
+||8964museum.com
 .8news.com.tw
 .8z1.net
 ||8z1.net
@@ -2248,6 +2253,7 @@ asg.to
 |http://japanfirst.asianfreeforum.com/
 ||asiansexdiary.com
 ||asianwomensfilm.de
+||asiaone.com
 .asiatgp.com
 .asiatoday.us
 ||askstudent.com
@@ -3559,11 +3565,13 @@ video.fdbox.com
 .fdc89.jp
 ||fourface.nodesnoop.com
 !--feedbooks.mobi
+||feeder.co
 ||feelssh.com
 feer.com
 .feifeiss.com
 |http://feitianacademy.org
 .feitian-california.org
+||feixiaohao.com
 ||feministteacher.com
 .fengzhenghu.com
 ||fengzhenghu.com
@@ -4378,6 +4386,7 @@ heqinglian.net
 ||hexieshe.xyz
 !--Google employee within Google IP
 ||hexxeh.net
+||heyuedi.com
 app.heywire.com
 .heyzo.com
 .hgseav.com
@@ -5604,6 +5613,7 @@ newspeak.cc/story
 ||newsancai.com
 .newsdetox.ca
 .newsdh.com
+||newsmax.com
 ||newstamago.com
 ||newstapa.org
 newstarnet.com
@@ -5629,6 +5639,7 @@ nexttv.com.tw
 ||co.ng.mil
 ||nga.mil
 ngensis.com
+||ngodupdongchung.com
 .nhentai.net
 |http://nhentai.net
 .nhk-ondemand.jp
@@ -5738,6 +5749,7 @@ occupytiananmen.com
 oclp.hk
 .ocreampies.com
 ||october-review.org
+||odysee.com
 offbeatchina.com
 ||officeoftibet.com
 |http://ofile.org
@@ -6020,6 +6032,7 @@ politicalconsultation.org
 .popo.tw
 !--||popularpages.net
 ||popvote.hk
+||popxi.click
 .popyard.com
 ||popyard.org
 .porn.com
@@ -6153,6 +6166,7 @@ psblog.name
 .putihome.org
 .putlocker.com/file
 pwned.com
+||pximg.net
 python.com
 .python.com.tw
 |http://python.com.tw
@@ -6371,6 +6385,7 @@ cdn1.lp.saboom.com
 sacom.hk
 ||sacom.hk
 ||sadpanda.us
+||safechat.com
 .safervpn.com
 ||safervpn.com
 .saintyculture.com
@@ -6481,6 +6496,7 @@ shadow.ma
 ||shadowsocks.org
 ||shadowsocks-r.com
 |http://cn.shafaqna.com
+||shahit.biz
 .shambalapost.com
 .shambhalasun.com
 .shangfang.org
@@ -6970,6 +6986,7 @@ theblemish.com
 |http://thedalailamamovie.com
 ||thediplomat.com
 ||thedw.us
+!--||thefreeland.club
 thefrontier.hk/tf
 ||theguardian.com
 ||thegay.com
@@ -7145,6 +7162,7 @@ tintuc101.com
 |http://tiny.cc
 tinychat.com
 ||tinypaste.com
+||tipas.net
 .tistory.com
 ||tkcs-collins.com
 .tmagazine.com
@@ -7871,6 +7889,7 @@ winwhispers.info
 .wisdompubs.org
 .wisevid.com
 ||wisevid.com
+||whispersystems.org
 .witnessleeteaching.com
 .witopia.net
 .wjbk.org
@@ -7959,6 +7978,7 @@ wukangrui.net
 wzyboy.im/post/160
 
 !--------------------XX-------------------------
+||x.co
 .x-berry.com
 ||x-berry.com
 ||x-art.com
